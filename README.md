@@ -1,27 +1,27 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Clean Blog](http://startbootstrap.com/template-overviews/clean-blog/)
 
-[Clean Blog](http://startbootstrap.com/template-overviews/clean-blog/) is a stylish, responsive blog theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a blog homepage, about page, contact page, and an example post page along with a working PHP contact form.
 
-## Getting Started
+# Amen's Self Help Blog
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/clean-blog/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-clean-blog.git`
-* Fork the repo
+# Introduction
+This self help blog will service lots of people with lots of aspects and perspectives. This self help blog tries to talk about and aims to reach  lots of areas and brings up and tries to use lots of wisdoms that are developed using the right knowledge and tries to solve lots problems in different areas and things in someone's or in our lives.  
 
-## Bugs and Issues
+# Technlogies 
+* HTML
+* CSS
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-clean-blog/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/clean-blog/).
+# Features:
+* Header , Main content , Sidebar , Footer
 
-## Creator
+# plan for whole project
+* WEEK 8 creat github account
+* WEEK 9 Readme file
+* WEEK 16 I will finshed my Project
 
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
+By, AMEN LinkedIn GitHub
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+ https://amentiru.github.io/uuuu/
+ 
 
-## Copyright and License
-
-Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-clean-blog/blob/gh-pages/LICENSE) license.
+ 
+>>>>>>> 5a9f290399c73916f92587012a96caa7d6c6f95e
